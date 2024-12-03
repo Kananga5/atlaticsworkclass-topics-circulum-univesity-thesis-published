@@ -130,4 +130,46 @@ tshingombe fiston <tshingombefiston@gmail.com>
 	
 AttachmentsMon, Dec 2, 2:33 PM (22 hours ago)
 	
-to Roberto
+to Roberto Core Courses and Topics in Electrical Engineering (MS, MSEE)
+
+    Digital Telephony
+    Space Control Systems
+    Advanced Telecommunications
+    Wireless Telecommunications Systems
+    Neural Networks
+    Neural Computation
+    Computational and Biological Vision
+    Knowledge Based Systems in Electrical Engineering
+    Principles of Internetworking
+    Optical Fiber Communications
+    Signal Detection and Estimation Theory
+    Digital Control Systems
+    Microprocessor Systems
+    Introduction to Stochastic Processes
+    Optical and Ultrasound Imaging
+    Industrial Power System Protection
+    Processing
+    Microelectronics
+    Image Reconstruction and Medical Imaging
+    Process Integration for VLSI
+    Parallel Computer Architecture
+    Computer Architecture
+    Power System Control and Stability
+    Electromagnetic Waves 
+
+Orientation Courses
+
+    Communication & Investigation (Comprehensive Resume)
+    Organization Theory (Portfolio)
+    Experiential Learning (Autobiography)
+    Academic Evaluation (Questionnaire)
+    Fundament of Knowledge (Integration Chart)
+    Fundamental Principles I (Philosophy of Education)
+    Professional Evaluation (Self Evaluation Matrix)
+    Development of Graduate Study (Guarantee of an Academic Degree) 
+
+Research Project in Electrical Engineering (MS, MSEE)
+
+Masters Thesis Project
+MBM300 Thesis Proposal
+
